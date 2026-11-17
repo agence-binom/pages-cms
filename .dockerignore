@@ -1,0 +1,17 @@
+.git
+.github
+node_modules
+.next
+out
+build
+coverage
+.env*
+!.env.local.example
+*.pem
+.DS_Store
+.vscode
+.codex
+.docs
+npm-debug.log*
+Dockerfile
+.dockerignore
